@@ -7,4 +7,9 @@ public class ConBizImpl implements ConBiz {
 		
 	}
 
+	public void aaa() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
